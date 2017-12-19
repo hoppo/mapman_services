@@ -1,6 +1,6 @@
 ---
 
-name: enrichmentAnalysis
+name: enrichmentanalysis
 version: 0.1
 description: Passthrough adapter for mapman enrichment analysis Web Services RESTful API
 type: passthrough
